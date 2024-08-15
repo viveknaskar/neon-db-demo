@@ -1,6 +1,6 @@
 # Neon Postgres Database demo with Spring Boot App
 
-This is a spring boot application to illustrate database CRUD operation with Neon pPostgres database.
+This is a spring boot application to illustrate database CRUD operation with Neon Postgres database.
 
 ## What is Neon Postgres database?
 
